@@ -1,0 +1,12 @@
+<app>
+     <id>MG01</id>
+     <name>XE Exchange Tool</name>
+     <provider>Mantas XE Exchange</provider>
+     <description>XE Exchange Tool</description>
+     <extensionpoint>
+     <!-- location shows where the app will be embedded -->
+          <location>CLIENT_VIEW</location>
+          <label>XE Exchange Tool</label>
+          <url>https://xe.com/</url>
+     </extensionpoint>
+</app>
